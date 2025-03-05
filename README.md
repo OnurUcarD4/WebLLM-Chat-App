@@ -2,6 +2,9 @@
 
 A modern, real-time chat application powered by WebLLM that runs language models directly in your browser. This project demonstrates the capabilities of client-side AI processing using the MLCEngine.
 
+![image](https://github.com/user-attachments/assets/02cf6e48-d54f-4e3b-8fd1-7ca678445a79)
+
+
 ## Features
 
 - 🤖 Real-time AI chat interface
